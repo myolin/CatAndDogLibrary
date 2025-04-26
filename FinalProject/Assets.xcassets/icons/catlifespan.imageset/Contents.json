@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "a-cute-and-adorable-cat-with-a-clock-hovering-abov-hikhf4V3R_qh9GnVRdjXww-zn0ixJAiRw6x2WHX6cxCcQ-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

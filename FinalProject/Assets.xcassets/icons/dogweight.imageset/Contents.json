@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "a-whimsical-illustration-featuring-a-dog-wearing-a-zW5KwLNlQTGvL65Zj9TB_w-_752TY0vSIGVzPOLu6I77Q-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "a-charming-and-whimsical-illustration-depicting-a--bzqHGQQkQvSykpUQx2h3Uw-4KF-q0M3Q_2MjILxn3ECug-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
